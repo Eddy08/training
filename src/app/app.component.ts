@@ -2,9 +2,12 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  template: '<store></store>', // Before creating another component try to create 
+  // structure
+  // association
+  // data types
+  // data 
 })
 export class AppComponent {
-  title = 'myEcomm';
+// Never use any other code in the App Component
 }
