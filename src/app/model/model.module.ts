@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 
 @NgModule({
-  providers: [],
+  providers: [StaticDataSource],
 })
-export class AppModule { }
+export class AppModule {}
