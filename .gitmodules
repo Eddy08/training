@@ -1,0 +1,3 @@
+[submodule "frontend/angular/13/myEcomm"]
+	path = frontend/angular/13/myEcomm
+	url = https://github.com/Eddy08/training.git
