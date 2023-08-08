@@ -1,6 +1,6 @@
 # RealTimeComm
 
-## The main purpose of this application is to build a reactive application.
+## Build a reactive application.
 ## Application developed should be simple and follow best practices.
 ## Default Generated README.md content 
 
