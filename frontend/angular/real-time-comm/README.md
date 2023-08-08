@@ -1,7 +1,7 @@
 # RealTimeComm
 
-## The main purpose of this application is a reactive application.
-
+## The main purpose of this application is to build a reactive application.
+## Application developed should be simple and follow best practices.
 ## Default Generated README.md content 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.7.
