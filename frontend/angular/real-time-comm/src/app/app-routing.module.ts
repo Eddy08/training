@@ -7,6 +7,7 @@ const routes: Routes = [
   {
     path: '**',
     loadChildren: () => import('./help/help.module').then((m) => m.HelpModule),
+    pathMatch: 'full',
   },
 ];
 
