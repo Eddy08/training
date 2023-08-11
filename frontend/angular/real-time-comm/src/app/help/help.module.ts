@@ -5,7 +5,7 @@ import { Route, RouterModule, Routes } from '@angular/router';
 
 const routing = RouterModule.forChild([
   { path: 'help-page', component: HelpComponent },
-  { path: '**', redirectTo: 'help-page', pathMatch: 'full' },
+  { path: '**', redirectTo: '/help-page', pathMatch: 'prefix' },
 ]);
 @NgModule({
   imports: [CommonModule, routing],
