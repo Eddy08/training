@@ -1,9 +1,12 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { LandingPageComponent } from './landing-page/landing-page.component';
 
 @NgModule({
   imports: [CommonModule],
-  declarations: [],
+  declarations: [
+    LandingPageComponent
+  ],
   exports: [],
 })
 export class StoreModule {}
