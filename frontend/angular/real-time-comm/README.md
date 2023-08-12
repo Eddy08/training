@@ -2,6 +2,9 @@
 
 ## Build a reactive application.
 ## Application developed should be simple and follow best practices.
+## In today's world attention is product so try to use some api of social media app to demostrate that.
+
+
 ## Default Generated README.md content 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.7.
